@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.exe
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.deps.json
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.runtimeconfig.json
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.dll
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.pdb
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.csproj.CopyComplete
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.dll
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.pdb
+C:\Users\opilane\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.genruntimeconfig.cache
